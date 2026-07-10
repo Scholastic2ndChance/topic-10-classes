@@ -1,3 +1,7 @@
+# Topic 10 Collaborative Assignment
+# Your Name: Bradley Moore
+# Date: 7-9-2026
+
 import random
 
 # Create Game Characters
